@@ -1,0 +1,367 @@
+/* parte geral do site */
+body{
+
+    /* cor de fundo principal */
+    background-color: #fff8e8;
+
+    /* cor padrão dos textos */
+    color: #7a3543;
+
+    /* deixa os textos centralizados */
+    text-align: center;
+
+    /* tira a margem que vem por padrão */
+    margin: 0;
+}
+
+
+/* cabeçalho do site */
+header{
+
+    /* fundo azul pastel */
+    background-color: #dceff5;
+
+    /* borda em volta do cabeçalho */
+    border: 3px solid #a65463;
+
+    /* deixa os cantos arredondados */
+    border-radius: 8px;
+
+    margin: 0;
+
+    /* espaço dentro do cabeçalho */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* imagem que fica dentro do cabeçalho */
+header img{
+
+    /* evita que a imagem passe do tamanho da tela */
+    max-width: 100%;
+
+    /* mantém a proporção da imagem */
+    height: auto;
+
+    /* faz a imagem ocupar uma linha própria */
+    display: block;
+
+    /* centraliza a imagem */
+    margin: auto;
+}
+
+
+/* menu de navegação */
+nav{
+
+    /* fundo rosa pastel */
+    background-color: #f8d9df;
+
+    border: 2px solid #a65463;
+
+    border-radius: 8px;
+
+    margin: 10px;
+
+    /* espaço dentro do menu */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* links que ficam dentro do menu */
+nav a{
+
+    /* cor dos links */
+    color: #7a3543;
+
+    /* espaço entre os links */
+    margin: 8px;
+}
+
+
+/* conteúdo principal das páginas */
+main{
+
+    /* largura do conteúdo */
+    width: 90%;
+
+    /* evita que ele fique grande demais */
+    max-width: 900px;
+
+    /* centraliza o conteúdo */
+    margin: auto;
+}
+
+
+/* seções das páginas */
+section{
+
+    /* fundo mais claro */
+    background-color: #fffdf7;
+
+    /* borda amarela */
+    border: 2px solid #f0c25e;
+
+    border-radius: 10px;
+
+    /* espaço entre uma seção e outra */
+    margin: 20px;
+
+    /* espaço dentro da seção */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* partes usadas pra mostrar produtos ou informações */
+article{
+
+    /* fundo rosa bem clarinho */
+    background-color: #fdf0f3;
+
+    /* borda azul */
+    border: 2px solid #9dcbd8;
+
+    border-radius: 10px;
+
+    margin: 15px;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+/* formulários do site */
+form{
+
+    background-color: #fffdf7;
+
+    border: 2px solid #9dcbd8;
+
+    border-radius: 10px;
+
+    /* tamanho do formulário */
+    width: 80%;
+
+    /* deixa o formulário centralizado */
+    margin: auto;
+
+    /* espaço dentro do formulário */
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+/* campos dos formulários */
+input{
+
+    border: 1px solid #a65463;
+
+    border-radius: 5px;
+
+    /* espaço em volta dos campos */
+    margin: 5px;
+}
+
+
+/* listas de opções dos formulários */
+select{
+
+    border: 1px solid #a65463;
+
+    border-radius: 5px;
+
+    margin: 5px;
+}
+
+
+/* botões normais */
+button{
+
+    /* fundo rosa */
+    background-color: #f8d9df;
+
+    /* cor do texto */
+    color: #7a3543;
+
+    border: 1px solid #a65463;
+
+    border-radius: 5px;
+
+    margin: 5px;
+}
+
+
+/* estilo usado nos links que quero deixar parecendo botão */
+.botao{
+
+    /* faz o botão ficar em uma linha própria */
+    display: block;
+
+    /* largura do botão */
+    width: 30%;
+
+    /* centraliza ele */
+    margin: auto;
+
+    background-color: #f8d9df;
+
+    color: #7a3543;
+
+    border: 2px solid #a65463;
+
+    border-radius: 8px;
+
+    /* espaço dentro do botão */
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+/* tabelas do sistema */
+table{
+
+    /* deixa a tabela quase do tamanho todo da parte onde ela está */
+    width: 95%;
+
+    /* centraliza a tabela */
+    margin: auto;
+
+    border: 2px solid #a65463;
+
+    background-color: #fffdf7;
+}
+
+
+/* títulos das colunas das tabelas */
+th{
+
+    /* fundo azul pastel */
+    background-color: #dceff5;
+
+    border: 1px solid #a65463;
+}
+
+
+/* células das tabelas */
+td{
+
+    border: 1px solid #e8a8b5;
+}
+
+
+/* imagens do site */
+img{
+
+    /* evita que a imagem passe do tamanho da tela */
+    max-width: 100%;
+
+    /* mantém o tamanho proporcional */
+    height: auto;
+
+    /* faz a imagem ficar em uma linha própria */
+    display: block;
+
+    /* centraliza a imagem */
+    margin: auto;
+}
+
+
+/* rodapé das páginas */
+footer{
+
+    /* fundo azul pastel */
+    background-color: #dceff5;
+
+    border: 3px solid #a65463;
+
+    border-radius: 8px;
+
+    margin: 20px;
+
+    /* espaço dentro do rodapé */
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+/* links que ficam no rodapé */
+footer a{
+
+    color: #7a3543;
+}
+
+
+/* classe usada pra deixar alguma parte mais destacada */
+.destaque{
+
+    /* fundo amarelo */
+    background-color: #fff1b8;
+
+    border: 3px solid #a65463;
+}
+
+
+/* classe usada quando quero uma parte rosa */
+.rosa{
+
+    background-color: #f8d9df;
+
+    border: 2px solid #a65463;
+}
+
+
+/* classe usada quando quero uma parte azul */
+.azul{
+
+    background-color: #dceff5;
+
+    border: 2px solid #a65463;
+}
+
+
+/* classe usada quando quero uma parte amarela */
+.amarelo{
+
+    background-color: #fff1b8;
+
+    border: 2px solid #a65463;
+}
+
+
+/* faixa decorativa que aparece em algumas partes do site */
+.faixa-retro{
+
+    background-color: #fff1b8;
+
+    color: #7a3543;
+
+    border: 1px solid #a65463;
+
+    border-radius: 5px;
+
+    margin: 10px;
+
+    /* espaço dentro da faixa */
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+/* classe usada pra mostrar avisos */
+.aviso{
+
+    background-color: #f8d9df;
+
+    border: 2px solid #a65463;
+
+    border-radius: 8px;
+
+    margin: 15px;
+
+    /* espaço dentro do aviso */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
