@@ -1,4 +1,4 @@
-# Elis Patisserie
+# Elis Patisserie 🍰
 
 Site de uma confeitaria inspirada na **confeitaria francesa** e na estética **retrô dos anos 50, 60 e 70**, desenvolvido em **PHP**, **PostgreSQL**, **HTML** e **CSS**.
 
