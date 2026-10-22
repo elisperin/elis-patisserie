@@ -1,9 +1,8 @@
 # Elis Patisserie
 
->*Projeto realizado durante [DATA INICIAL] - [DATA FINAL]* <br>
->*Aluna: [SEU NOME]*<br>
->*Professor(es): [NOME DOS PROFESSORES]*<br>
->*Turma: [SUA TURMA]*<br>
+>*Aluna: Elis Perin*<br>
+>*Professor(es): Jorge, Morato, Platini*<br>
+>*Turma: I1D35*<br>
 
 ## *Contextualização*
 
