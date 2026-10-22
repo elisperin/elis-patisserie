@@ -707,8 +707,8 @@ e configure os dados do PostgreSQL:
 $host = "SEU_HOST_OU_IP";
 $dbname = "elis_patisserie";
 <<<<<<< HEAD
-$user = "SEU_USUARIO";
-$pass = "SUA_SENHA";
+$user = "patisserie";
+$pass = "patisserie";
 
 try {
     $conexao = new PDO(
