@@ -439,8 +439,8 @@ e configure os dados do seu PostgreSQL:
 ```php
 $host = "SEU_HOST";
 $dbname = "elis_patisserie";
-$user = "SEU_USUARIO";
-$pass = "SUA_SENHA";
+$user = "patisserie";
+$pass = "patisserie";
 ```
 
 **Não publique uma senha real no GitHub.**
