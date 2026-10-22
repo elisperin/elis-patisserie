@@ -1,4 +1,4 @@
-# Elis Patisserie
+# Elis Patisserie 🍰
 
 Site de uma confeitaria inspirada na **confeitaria francesa** e na estética **retrô dos anos 50, 60 e 70**, desenvolvido com **PHP**, **PostgreSQL**, **HTML** e **CSS**.
 
@@ -706,6 +706,7 @@ e configure os dados do PostgreSQL:
 
 $host = "SEU_HOST_OU_IP";
 $dbname = "elis_patisserie";
+<<<<<<< HEAD
 $user = "SEU_USUARIO";
 $pass = "SUA_SENHA";
 
@@ -723,6 +724,10 @@ try {
 }
 
 ?>
+=======
+$user = "patisserie";
+$pass = "patisserie";
+>>>>>>> 8e21018717e1e09332933a60fd30713fc72f12af
 ```
 
 - `$host`: endereço do PostgreSQL, como `localhost` ou o IP utilizado na rede.
