@@ -241,7 +241,7 @@ elis-patisserie/
 Quando o projeto estiver no GitHub, no PowerShell ou terminal do VS Code:
 
 ```powershell
-git clone URL_DO_SEU_REPOSITORIO elis-patisserie
+git clone https://github.com/elisperin/elis-patisserie.git elis-patisserie
 ```
 
 Depois entre na pasta:
