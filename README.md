@@ -874,6 +874,6 @@ A proposta visual utiliza:
 - laços;
 - elementos ligados à confeitaria;
 - imagens inspiradas em anúncios antigos;
-- referências à pâtisserie francesa.
+- referências à pâtisserie francesa
 
 A intenção foi unir uma confeitaria delicada e artesanal a uma estética nostálgica e reconhecível em todas as páginas do projeto.
